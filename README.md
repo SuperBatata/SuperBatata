@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khaled Battiche</h1>
 <h3 align="center">A passionate Blockchain developer from Tunisia</h3>
 <div align="center">
-  <a align="center" href="https://app.daily.dev/superpotato"><img src="https://api.daily.dev/devcards/30fb2f9110e4474aa600f297cb5ecd89.png?r=qw8" width="200" alt="Khaled BATTICHE's Dev Card"/></a>
+  <a align="center" href="https://app.daily.dev/superpotato"><img src="https://api.daily.dev/devcards/30fb2f9110e4474aa600f297cb5ecd89.png?r=qw8" width="300" alt="Khaled BATTICHE's Dev Card"/></a>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superbatata&label=Profile%20views&color=0e75b6&style=flat" alt="superbatata" /> </p>
+
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbatata&label=Profile%20views&color=0e75b6&style=flat" alt="superbatata" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superbatata" alt="superbatata" /></a> </p>
+  </div>
 
 - 🔭 I’m currently working on **Waltid NFTkit**
 
