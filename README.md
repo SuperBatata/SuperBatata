@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Battiche</h1>
 <h3 align="center">A passionate Blockchain developer from Tunisia</h3>
 <div align="center">
-  <a align="center" href="https://app.daily.dev/superpotato"><img src="https://api.daily.dev/devcards/30fb2f9110e4474aa600f297cb5ecd89.png?r=qw8" width="300" alt="Khaled BATTICHE's Dev Card"/></a>
+<a href="https://app.daily.dev/superpotato"><img src="https://api.daily.dev/devcards/v2/8SDboCLP_.png?type=default&r=cn4" width="356" alt="Khaled BATTICHE's Dev Card"/></a>
   </div>
 
 <div align="center">
